@@ -88,8 +88,7 @@ Date: [Date]
 
 **Ambassador: [Ambassador's Full Name]**
 
-Signature:  
-![Ambassador's Signature]([https://via.placeholder.com/150?text=Signature](https://cdn.discordapp.com/attachments/954568565783150623/1236133637284696094/C34F38D1-E32C-4D2D-8E3C-17FBFD5F27B6.png?ex=66568aa9&is=66553929&hm=5c4e9faaf7b36176f05bb8280eb974af1d3b3bd40afd4ae02ef30facbd60ce3a&))
+
 
 Address:  
 [Ambassador's Address]
@@ -99,3 +98,5 @@ Other Comments:
 
 Signature: ____________________________  
 Date: [Date]
+
+<img src="https://cdn.discordapp.com/attachments/954568565783150623/1236133637284696094/C34F38D1-E32C-4D2D-8E3C-17FBFD5F27B6.png?ex=66568aa9&is=66553929&hm=5c4e9faaf7b36176f05bb8280eb974af1d3b3bd40afd4ae02ef30facbd60ce3a&" alt="isolated" width="200"/>
